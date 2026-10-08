@@ -45,3 +45,45 @@ Especificamente, vocês devem fazer o seguinte:
 - [Atividade a ser entregue](docs/att.md)
 
 - [Roteiro da aplicação](docs/roteiro.md)
+
+## Execução
+
+| Endpoint  | Perfil       | Parâmetro | Default   | Limite         | Recurso mais afetado |
+| --------- | ------------ | --------- | --------- | -------------- | -------------------- |
+| `/`       | health check | -         | -         | -              | -                    |
+| `/cpu`    | CPU-bound    | `n`       | 3.000.000 | 1 a 50.000.000 | CPU                  |
+| `/memory` | Memory-bound | `size`    | 1500      | 1 a 5000       | RAM                  |
+| `/io`     | I/O-bound    | `size`    | 20        | 1 a 500        | Disco                |
+
+### Servidor
+
+```
+uvicorn server:app --host 0.0.0.0 --port 8000 --workers <nº de vCPUs>
+```
+
+### CPU-bound
+
+`n` iterações acumulando `i * i`
+
+Exemplo:
+```
+curl "http://localhost:8000/cpu?n=3000000"
+```
+
+### Memory-bound
+
+Soma todos os elementos de uma matriz `size x size`
+
+Exemplo:
+```
+curl "http://localhost:8000/memory?size=1500"
+```
+
+### IO-bound
+
+Repete `size` ciclos de escrita de 1 MB em um arquivo temporário. O volume escrito em disco é `size` MB e o volume lido também
+
+Exemplo:
+```
+curl "http://localhost:8000/io?size=20"
+```
