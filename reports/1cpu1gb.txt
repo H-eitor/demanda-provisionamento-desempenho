@@ -1,0 +1,152 @@
+﻿1CPU E 1GB DE MEMORIA
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/cpu?n=3000000" 
+
+
+Benchmarking localhost (be patient)
+Completed 1000 requests
+Completed 2000 requests
+Completed 3000 requests
+Completed 4000 requests
+Completed 5000 requests
+Completed 6000 requests
+Completed 7000 requests
+Completed 8000 requests
+Completed 9000 requests
+Completed 10000 requests
+Finished 10000 requests
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8080
+Document Path:          /cpu?n=3000000
+Document Length:        32 bytes
+Concurrency Level:      100
+Time taken for tests:   1186.469 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      1760000 bytes
+HTML transferred:       320000 bytes
+Requests per second:    8.43 [#/sec] (mean)
+Time per request:       11864.694 [ms] (mean)
+Time per request:       118.647 [ms] (mean, across all concurrent requests)
+Transfer rate:          1.45 [Kbytes/sec] received
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0       2
+Processing:   139 11811 958.8  11450   16194
+Waiting:      125 11216 1179.1  11305   15696
+Total:        139 11811 958.8  11450   16195
+
+
+Percentage of the requests served within a certain time (ms)
+  50%  11450
+  66%  11782
+  75%  12526
+  80%  12734
+  90%  13041
+  95%  13409
+  98%  13759
+  99%  14188
+ 100%  16195 (longest request)
+
+
+
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/memory?size=1500" 
+
+
+Benchmarking localhost (be patient)
+Completed 1000 requests
+Completed 2000 requests
+Completed 3000 requests
+Completed 4000 requests
+Completed 5000 requests
+Completed 6000 requests
+Completed 7000 requests
+Completed 8000 requests
+Completed 9000 requests
+Completed 10000 requests
+Finished 10000 requests
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8080
+Document Path:          /memory?size=1500
+Document Length:        39 bytes
+Concurrency Level:      100
+Time taken for tests:   193.903 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      1830000 bytes
+HTML transferred:       390000 bytes
+Requests per second:    51.57 [#/sec] (mean)
+Time per request:       1939.031 [ms] (mean)
+Time per request:       19.390 [ms] (mean, across all concurrent requests)
+Transfer rate:          9.22 [Kbytes/sec] received
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0       2
+Processing:    47 1913 167.2   1899    3189
+Waiting:       34 1715 217.2   1718    2853
+Total:         47 1913 167.2   1899    3189
+
+
+Percentage of the requests served within a certain time (ms)
+  50%   1899
+  66%   1949
+  75%   1975
+  80%   1995
+  90%   2059
+  95%   2172
+  98%   2351
+  99%   2460
+ 100%   3189 (longest request)
+
+
+
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/io?size=20"
+
+
+Benchmarking localhost (be patient)
+Completed 1000 requests
+Completed 2000 requests
+Completed 3000 requests
+Completed 4000 requests
+Completed 5000 requests
+Completed 6000 requests
+Completed 7000 requests
+Completed 8000 requests
+Completed 9000 requests
+Completed 10000 requests
+Finished 10000 requests
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8080
+Document Path:          /io?size=20
+Document Length:        36 bytes
+Concurrency Level:      100
+Time taken for tests:   449.360 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      1800000 bytes
+HTML transferred:       360000 bytes
+Requests per second:    22.25 [#/sec] (mean)
+Time per request:       4493.599 [ms] (mean)
+Time per request:       44.936 [ms] (mean, across all concurrent requests)
+Transfer rate:          3.91 [Kbytes/sec] received
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.5      0       2
+Processing:    86 4460 804.7   4309   11488
+Waiting:       73 4390 804.4   4249   11417
+Total:         86 4460 804.7   4309   11488
+Percentage of the requests served within a certain time (ms)
+  50%   4309
+  66%   4485
+  75%   4604
+  80%   4690
+  90%   5010
+  95%   5406
+  98%   7562
+  99%   8097
+ 100%  11488 (longest request)

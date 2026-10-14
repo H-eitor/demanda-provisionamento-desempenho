@@ -1,0 +1,110 @@
+﻿2CPU E 1GB DE MEMORIA
+
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/cpu?n=3000000" :
+  
+Benchmarking localhost (be patient)
+Completed 1000 requests
+apr_pollset_poll: The timeout specified has expired (70007)
+Total of 1381 requests completed
+
+
+2:
+Benchmarking localhost (be patient)
+Finished 10000 requests
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8080
+Document Path:          /cpu?n=3000000
+Document Length:        32 bytes
+Concurrency Level:      100
+Time taken for tests:   856.030 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      1760000 bytes
+HTML transferred:       320000 bytes
+Requests per second:    11.68 [#/sec] (mean)
+Time per request:       8560.302 [ms] (mean)
+Time per request:       85.603 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.01 [Kbytes/sec] received
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0       2
+Processing:   190 8509 2794.7   8174   34060
+Waiting:      171 7927 2704.7   7603   33383
+Total:        190 8509 2794.7   8174   34061
+Percentage of the requests served within a certain time (ms)
+  50%   8174
+  66%   9396
+  75%  10095
+  80%  10491
+  90%  11988
+  95%  13200
+  98%  15341
+  99%  16900
+ 100%  34061 (longest request)
+
+
+
+
+
+
+
+
+
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/memory?size=1500" 
+
+
+Finished 10000 requests
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8080
+Document Path:          /memory?size=1500
+Document Length:        39 bytes
+Concurrency Level:      100
+Time taken for tests:   140.744 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      1830000 bytes
+HTML transferred:       390000 bytes
+Requests per second:    71.05 [#/sec] (mean)
+Time per request:       1407.441 [ms] (mean)
+Time per request:       14.074 [ms] (mean, across all concurrent requests)
+Transfer rate:          12.70 [Kbytes/sec] received
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0       2
+Processing:    60 1383 358.2   1371    2777
+Waiting:       49 1255 353.3   1250    2464
+Total:         60 1383 358.2   1371    2777
+Percentage of the requests served within a certain time (ms)
+  50%   1371
+  66%   1515
+  75%   1608
+  80%   1658
+  90%   1874
+  95%   2009
+  98%   2131
+  99%   2210
+ 100%   2777 (longest request)
+
+
+
+
+
+
+
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/io?size=20"
+  
+Host system reported disk full. VM execution is suspended. You can resume after freeing some space.
+Total of 2344 requests completed
+2:
+  
+apr_pollset_poll: The timeout specified has expired (70007)
+Total of 1409 requests completed
+3:
+  
+apr_pollset_poll: The timeout specified has expired (70007)
+Total of 1667 requests completed

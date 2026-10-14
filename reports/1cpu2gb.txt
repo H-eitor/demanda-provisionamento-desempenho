@@ -1,0 +1,122 @@
+﻿1CPU E 2GB DE MEMORIA
+
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/cpu?n=3000000" :
+Finished 10000 requests
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8080
+Document Path:          /cpu?n=3000000
+Document Length:        32 bytes
+Concurrency Level:      100
+Time taken for tests:   1230.110 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      1760000 bytes
+HTML transferred:       320000 bytes
+Requests per second:    8.13 [#/sec] (mean)
+Time per request:       12301.100 [ms] (mean)
+Time per request:       123.011 [ms] (mean, across all concurrent requests)
+Transfer rate:          1.40 [Kbytes/sec] received
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0       2
+Processing:   147 12236 1284.1  11989   20421
+Waiting:      134 11280 1344.2  11248   18896
+Total:        147 12236 1284.1  11989   20422
+Percentage of the requests served within a certain time (ms)
+  50%  11989
+  66%  12339
+  75%  12710
+  80%  12930
+  90%  13884
+  95%  14584
+  98%  15403
+  99%  16221
+ 100%  20422 (longest request)
+
+
+
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/memory?size=1500" 
+Finished 10000 requests
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8080
+Document Path:          /memory?size=1500
+Document Length:        39 bytes
+Concurrency Level:      100
+Time taken for tests:   227.690 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      1830000 bytes
+HTML transferred:       390000 bytes
+Requests per second:    43.92 [#/sec] (mean)
+Time per request:       2276.897 [ms] (mean)
+Time per request:       22.769 [ms] (mean, across all concurrent requests)
+Transfer rate:          7.85 [Kbytes/sec] received
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0       2
+Processing:    50 2248 445.0   2122    4139
+Waiting:       36 2013 444.3   1946    3890
+Total:         50 2248 445.1   2123    4139
+
+
+Percentage of the requests served within a certain time (ms)
+  50%   2123
+  66%   2339
+  75%   2475
+  80%   2575
+  90%   2892
+  95%   3126
+  98%   3445
+  99%   3659
+ 100%   4139 (longest request)
+
+
+
+
+
+
+.\ab.exe -n 10000 -c 100 "http://localhost:8080/io?size=20"
+Benchmarking localhost (be patient)
+Completed 4000 requests
+apr_pollset_poll: The timeout specified has expired (70007)
+Total of 4196 requests completed
+
+
+2:
+Benchmarking localhost (be patient)
+Finished 10000 requests
+Server Software:        uvicorn
+Server Hostname:        localhost
+Server Port:            8080
+Document Path:          /io?size=20
+Document Length:        36 bytes
+Concurrency Level:      100
+Time taken for tests:   395.188 seconds
+Complete requests:      10000
+Failed requests:        0
+Total transferred:      1800000 bytes
+HTML transferred:       360000 bytes
+Requests per second:    25.30 [#/sec] (mean)
+Time per request:       3951.878 [ms] (mean)
+Time per request:       39.519 [ms] (mean, across all concurrent requests)
+Transfer rate:          4.45 [Kbytes/sec] received
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0       2
+Processing:    98 3918 934.0   3695    9779
+Waiting:       86 3900 937.9   3681    9761
+Total:         99 3918 934.0   3695    9779
+Percentage of the requests served within a certain time (ms)
+  50%   3695
+  66%   3778
+  75%   3839
+  80%   3888
+  90%   4360
+  95%   5884
+  98%   7765
+  99%   8419
+ 100%   9779 (longest request)

@@ -1,0 +1,1450 @@
+%Cpu(s):  6.7 us, 66.7 sy,  0.0 ni,  0.0 id, 20.0 wa,  0.0 hi,  6.7 si,  0.0 st
+MiB Mem :    957.4 total,    468.5 free,    194.6 used,    294.3 buff/cache
+%Cpu(s):  2.0 us, 16.3 sy,  0.0 ni, 73.5 id,  3.1 wa,  0.0 hi,  5.1 si,  0.0 st
+MiB Mem :    957.4 total,    468.5 free,    194.6 used,    294.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    468.5 free,    194.6 used,    294.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    452.8 free,    206.0 used,    298.6 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.0 id,  1.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    452.8 free,    206.0 used,    298.6 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    452.8 free,    206.0 used,    298.6 buff/cache
+%Cpu(s):  3.2 us,  1.1 sy,  0.0 ni, 94.6 id,  0.0 wa,  0.0 hi,  1.1 si,  0.0 st
+MiB Mem :    957.4 total,    451.3 free,    207.2 used,    298.9 buff/cache
+%Cpu(s): 64.9 us,  3.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 31.6 si,  0.0 st
+MiB Mem :    957.4 total,    451.3 free,    207.2 used,    298.9 buff/cache
+%Cpu(s): 66.1 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    451.3 free,    207.2 used,    298.9 buff/cache
+%Cpu(s): 71.7 us,  5.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 67.3 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 68.4 us,  3.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 73.1 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.7 used,    298.9 buff/cache
+%Cpu(s): 69.2 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.7 used,    298.9 buff/cache
+%Cpu(s): 69.6 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.7 used,    298.9 buff/cache
+%Cpu(s): 68.5 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 76.0 us,  2.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 64.4 us,  3.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 32.2 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 66.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 69.6 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 67.9 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 73.6 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    298.9 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 67.3 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.8 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.2 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 72.5 us,  2.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 66.7 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 70.9 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 76.0 us,  2.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.2 us,  5.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 68.5 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.6 used,    299.0 buff/cache
+%Cpu(s): 73.1 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 69.8 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.2 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 71.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 68.5 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 66.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 65.5 us,  5.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 68.5 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 67.3 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 68.5 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 67.9 us,  5.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 67.3 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.0 buff/cache
+%Cpu(s): 67.3 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 71.7 us,  5.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 65.5 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 71.7 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 68.5 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 71.2 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 66.7 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 69.1 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 68.5 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 72.2 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 68.5 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 69.8 us,  5.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 68.5 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 69.2 us,  5.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 67.3 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 66.7 us,  3.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.5 used,    299.1 buff/cache
+%Cpu(s): 69.8 us,  5.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.4 used,    299.1 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.4 used,    299.1 buff/cache
+%Cpu(s):  8.0 us,  1.1 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  4.5 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.4 used,    299.1 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.4 used,    299.1 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.4 used,    299.1 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.9 free,    207.4 used,    299.1 buff/cache
+%Cpu(s): 46.0 us,  1.6 sy,  0.0 ni, 33.3 id,  0.0 wa,  0.0 hi, 19.0 si,  0.0 st
+MiB Mem :    957.4 total,    450.1 free,    208.2 used,    299.1 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    450.1 free,    208.2 used,    299.1 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    450.1 free,    208.2 used,    299.1 buff/cache
+%Cpu(s): 72.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.1 buff/cache
+%Cpu(s): 67.3 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.1 buff/cache
+%Cpu(s): 62.5 us, 10.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.1 buff/cache
+%Cpu(s): 75.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 73.6 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 66.1 us,  5.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 70.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.9 used,    299.2 buff/cache
+%Cpu(s): 63.3 us, 13.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 66.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 76.5 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 67.9 us,  5.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 62.7 us,  5.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 32.2 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 68.4 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 76.5 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 64.9 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 69.8 us,  7.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 74.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 70.4 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 66.7 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 64.9 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 66.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 62.7 us, 11.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 76.5 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 75.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 66.1 us,  5.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 69.1 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 64.9 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 76.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 69.1 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 65.5 us,  9.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 70.4 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 70.4 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 75.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.2 buff/cache
+%Cpu(s): 78.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 67.3 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 64.9 us,  7.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 67.9 us,  5.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 66.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 76.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 69.1 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 64.9 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 79.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 20.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.8 used,    299.3 buff/cache
+%Cpu(s): 73.1 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 66.1 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 71.2 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 77.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 67.9 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 61.7 us,  6.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 31.7 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 68.4 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 31.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 73.6 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 73.6 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 67.3 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 63.2 us,  7.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 69.6 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 74.5 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 68.4 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 63.2 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 72.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 74.5 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 65.5 us,  6.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 66.7 us,  9.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 70.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 70.4 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 67.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 70.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 61.4 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 72.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 74.5 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 80.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 19.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 67.9 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s):  9.2 us,  5.7 sy,  0.0 ni, 80.5 id,  0.0 wa,  0.0 hi,  4.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 40.6 us,  1.4 sy,  0.0 ni, 39.1 id,  0.0 wa,  0.0 hi, 18.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.4 free,    208.7 used,    299.3 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 72.5 us,  3.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 68.5 us,  7.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 70.4 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 64.3 us,  8.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.9 used,    299.4 buff/cache
+%Cpu(s): 64.3 us,  8.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 69.6 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 69.6 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 66.1 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 62.9 us,  8.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.0 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 62.1 us, 10.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 73.6 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 67.9 us,  8.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.2 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 74.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 71.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 69.6 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 66.7 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 63.8 us, 10.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 66.1 us,  8.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.4 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.5 buff/cache
+%Cpu(s): 63.8 us, 13.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.4 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.5 buff/cache
+%Cpu(s): 64.9 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    449.2 free,    208.8 used,    299.5 buff/cache
+%Cpu(s): 63.8 us,  8.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.8 used,    299.8 buff/cache
+%Cpu(s): 68.5 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.8 used,    299.8 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.8 used,    299.8 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.8 used,    299.8 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.8 used,    299.8 buff/cache
+%Cpu(s): 64.3 us, 12.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.2 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.8 used,    299.8 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 67.9 us, 10.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 21.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 69.1 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 63.3 us, 10.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.7 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 75.0 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 70.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 64.9 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 75.0 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 62.1 us,  8.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 70.4 us,  7.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.2 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 66.7 us,  7.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 69.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 69.6 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 66.7 us,  7.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 64.4 us,  6.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 67.9 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 66.7 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 62.1 us, 13.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 73.1 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.7 used,    299.9 buff/cache
+%Cpu(s): 70.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 69.8 us,  5.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 76.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 63.8 us,  8.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 63.8 us, 12.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 66.7 us,  3.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    299.9 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 73.1 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 63.3 us,  8.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 67.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 32.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 70.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 31.5 us,  8.2 sy,  0.0 ni, 47.9 id,  0.0 wa,  0.0 hi, 12.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 15.3 us,  1.2 sy,  0.0 ni, 75.3 id,  0.0 wa,  0.0 hi,  8.2 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.8 free,    218.6 used,    300.0 buff/cache
+%Cpu(s): 74.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.6 free,    218.8 used,    300.0 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.6 free,    218.8 used,    300.0 buff/cache
+%Cpu(s): 70.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.6 free,    218.8 used,    300.0 buff/cache
+%Cpu(s): 68.5 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 63.2 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 75.5 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 69.1 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 71.7 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 72.2 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    219.0 used,    300.1 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 69.1 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 66.1 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 68.4 us,  3.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 69.1 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 65.0 us,  8.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.7 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 66.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 69.6 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 71.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 67.2 us,  3.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 66.1 us,  8.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 69.1 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 69.6 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 64.9 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 66.1 us,  8.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 67.9 us,  5.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 67.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 69.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 72.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 67.9 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 66.1 us,  8.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 70.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 64.4 us,  8.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 70.9 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.1 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 67.9 us,  8.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.2 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 73.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 72.2 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 73.6 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 67.3 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 67.9 us,  5.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 72.2 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 66.7 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 70.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 69.1 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 75.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s): 68.4 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 66.7 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.6 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 73.6 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.9 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 72.2 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 71.7 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 73.1 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.1 us,  1.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.1 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 66.7 us,  7.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.4 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.1 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.6 us,  5.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 71.7 us,  1.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.1 us,  5.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 74.0 us,  2.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 70.9 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.5 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.8 us,  3.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 69.1 us,  7.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.6 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.2 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.3 buff/cache
+%Cpu(s): 69.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.3 buff/cache
+%Cpu(s): 70.4 us,  3.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.3 buff/cache
+%Cpu(s): 71.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.3 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.3 buff/cache
+%Cpu(s): 66.1 us,  7.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.3 buff/cache
+%Cpu(s): 73.6 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.3 buff/cache
+%Cpu(s): 66.7 us,  3.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.8 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.3 buff/cache
+%Cpu(s): 60.3 us, 10.3 sy,  0.0 ni,  5.2 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.8 used,    300.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    438.4 free,    218.9 used,    300.2 buff/cache
+%Cpu(s):  1.0 us,  0.0 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    433.9 free,    223.3 used,    300.2 buff/cache
+%Cpu(s): 36.7 us, 40.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.3 si,  0.0 st
+MiB Mem :    957.4 total,    433.9 free,    223.3 used,    300.2 buff/cache
+%Cpu(s): 44.4 us, 28.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.0 si,  0.0 st
+MiB Mem :    957.4 total,    433.9 free,    223.3 used,    300.2 buff/cache
+%Cpu(s): 39.4 us, 37.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.7 si,  0.0 st
+MiB Mem :    957.4 total,    392.6 free,    264.6 used,    300.2 buff/cache
+%Cpu(s): 40.0 us, 40.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 20.0 si,  0.0 st
+MiB Mem :    957.4 total,    392.6 free,    264.6 used,    300.2 buff/cache
+%Cpu(s): 43.5 us, 27.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 29.0 si,  0.0 st
+MiB Mem :    957.4 total,    392.6 free,    264.6 used,    300.2 buff/cache
+%Cpu(s): 38.5 us, 36.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    392.6 free,    264.6 used,    300.2 buff/cache
+%Cpu(s): 40.3 us, 40.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 19.4 si,  0.0 st
+MiB Mem :    957.4 total,    392.6 free,    264.6 used,    300.2 buff/cache
+%Cpu(s): 41.5 us, 32.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.2 si,  0.0 st
+MiB Mem :    957.4 total,    392.6 free,    264.6 used,    300.2 buff/cache
+%Cpu(s): 42.2 us, 31.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.6 si,  0.0 st
+MiB Mem :    957.4 total,    393.6 free,    263.6 used,    300.2 buff/cache
+%Cpu(s): 45.9 us, 29.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    393.6 free,    263.6 used,    300.2 buff/cache
+%Cpu(s): 36.5 us, 39.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.8 si,  0.0 st
+MiB Mem :    957.4 total,    393.6 free,    263.6 used,    300.2 buff/cache
+%Cpu(s): 41.9 us, 37.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 21.0 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.1 used,    300.2 buff/cache
+%Cpu(s): 42.9 us, 33.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.8 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.1 used,    300.2 buff/cache
+%Cpu(s): 39.3 us, 32.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.9 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.1 used,    300.2 buff/cache
+%Cpu(s): 41.0 us, 34.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.0 used,    300.2 buff/cache
+%Cpu(s): 39.7 us, 38.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.2 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.0 used,    300.2 buff/cache
+%Cpu(s): 44.8 us, 34.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 20.7 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.0 used,    300.2 buff/cache
+%Cpu(s): 40.6 us, 32.8 sy,  0.0 ni,  3.1 id,  0.0 wa,  0.0 hi, 23.4 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.0 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.0 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    389.2 free,    268.0 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    388.9 free,    268.3 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    388.9 free,    268.3 used,    300.2 buff/cache
+%Cpu(s): 48.2 us, 25.0 sy,  0.0 ni,  1.8 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    388.9 free,    268.3 used,    300.2 buff/cache
+%Cpu(s): 51.7 us, 21.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.7 si,  0.0 st
+MiB Mem :    957.4 total,    386.0 free,    271.2 used,    300.2 buff/cache
+%Cpu(s): 42.4 us, 28.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.8 si,  0.0 st
+MiB Mem :    957.4 total,    386.0 free,    271.2 used,    300.2 buff/cache
+%Cpu(s): 47.5 us, 28.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.7 si,  0.0 st
+MiB Mem :    957.4 total,    386.0 free,    271.2 used,    300.2 buff/cache
+%Cpu(s): 46.6 us, 29.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.1 si,  0.0 st
+MiB Mem :    957.4 total,    383.8 free,    273.4 used,    300.2 buff/cache
+%Cpu(s): 44.3 us, 27.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.9 si,  0.0 st
+MiB Mem :    957.4 total,    383.8 free,    273.4 used,    300.2 buff/cache
+%Cpu(s): 48.3 us, 24.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.6 si,  0.0 st
+MiB Mem :    957.4 total,    383.8 free,    273.4 used,    300.2 buff/cache
+%Cpu(s): 50.0 us, 25.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.2 si,  0.0 st
+MiB Mem :    957.4 total,    383.0 free,    274.2 used,    300.2 buff/cache
+%Cpu(s): 45.9 us, 26.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.9 si,  0.0 st
+MiB Mem :    957.4 total,    383.0 free,    274.2 used,    300.2 buff/cache
+%Cpu(s): 45.2 us, 24.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.6 si,  0.0 st
+MiB Mem :    957.4 total,    383.0 free,    274.2 used,    300.2 buff/cache
+%Cpu(s): 44.1 us, 32.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.7 si,  0.0 st
+MiB Mem :    957.4 total,    385.7 free,    271.4 used,    300.2 buff/cache
+%Cpu(s): 46.6 us, 25.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.6 si,  0.0 st
+MiB Mem :    957.4 total,    385.7 free,    271.4 used,    300.2 buff/cache
+%Cpu(s): 47.5 us, 28.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.7 si,  0.0 st
+MiB Mem :    957.4 total,    385.7 free,    271.4 used,    300.2 buff/cache
+%Cpu(s): 44.3 us, 29.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.2 si,  0.0 st
+MiB Mem :    957.4 total,    381.3 free,    275.8 used,    300.2 buff/cache
+%Cpu(s): 44.8 us, 29.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.9 si,  0.0 st
+MiB Mem :    957.4 total,    381.3 free,    275.8 used,    300.2 buff/cache
+%Cpu(s): 50.8 us, 23.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.4 si,  0.0 st
+MiB Mem :    957.4 total,    381.3 free,    275.8 used,    300.2 buff/cache
+%Cpu(s): 46.6 us, 25.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.6 si,  0.0 st
+MiB Mem :    957.4 total,    374.7 free,    282.5 used,    300.2 buff/cache
+%Cpu(s): 16.0 us, 11.1 sy,  0.0 ni, 60.5 id,  0.0 wa,  0.0 hi, 12.3 si,  0.0 st
+MiB Mem :    957.4 total,    374.7 free,    282.5 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.0 id,  1.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    374.7 free,    282.5 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    377.4 free,    279.8 used,    300.2 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    377.4 free,    279.8 used,    300.2 buff/cache
+%Cpu(s): 19.5 us,  6.5 sy,  0.0 ni, 64.9 id,  0.0 wa,  0.0 hi,  9.1 si,  0.0 st
+MiB Mem :    957.4 total,    377.4 free,    279.8 used,    300.2 buff/cache
+%Cpu(s): 50.8 us, 27.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.0 si,  0.0 st
+MiB Mem :    957.4 total,    377.2 free,    279.9 used,    300.3 buff/cache
+%Cpu(s): 39.1 us, 37.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 23.4 si,  0.0 st
+MiB Mem :    957.4 total,    377.2 free,    279.9 used,    300.3 buff/cache
+%Cpu(s): 42.6 us, 32.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    377.2 free,    279.9 used,    300.3 buff/cache
+%Cpu(s): 46.7 us, 23.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.0 si,  0.0 st
+MiB Mem :    957.4 total,    374.5 free,    282.6 used,    300.3 buff/cache
+%Cpu(s): 40.9 us, 31.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.3 si,  0.0 st
+MiB Mem :    957.4 total,    374.5 free,    282.6 used,    300.3 buff/cache
+%Cpu(s): 51.7 us, 25.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.4 si,  0.0 st
+MiB Mem :    957.4 total,    374.5 free,    282.6 used,    300.3 buff/cache
+%Cpu(s): 43.5 us, 29.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.4 si,  0.0 st
+MiB Mem :    957.4 total,    370.5 free,    286.6 used,    300.3 buff/cache
+%Cpu(s): 44.4 us, 28.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.0 si,  0.0 st
+MiB Mem :    957.4 total,    370.5 free,    286.6 used,    300.3 buff/cache
+%Cpu(s): 45.9 us, 29.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 24.6 si,  0.0 st
+MiB Mem :    957.4 total,    370.5 free,    286.6 used,    300.3 buff/cache
+%Cpu(s): 43.1 us, 30.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 26.2 si,  0.0 st
+MiB Mem :    957.4 total,    371.5 free,    285.6 used,    300.3 buff/cache
+%Cpu(s): 49.2 us, 23.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.9 si,  0.0 st
+MiB Mem :    957.4 total,    371.5 free,    285.6 used,    300.3 buff/cache
+%Cpu(s): 40.3 us, 29.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.6 si,  0.0 st
+MiB Mem :    957.4 total,    371.5 free,    285.6 used,    300.3 buff/cache
+%Cpu(s): 47.5 us, 24.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 27.9 si,  0.0 st
+MiB Mem :    957.4 total,    369.3 free,    287.8 used,    300.3 buff/cache
+%Cpu(s): 47.4 us, 24.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 28.1 si,  0.0 st
+MiB Mem :    957.4 total,    369.3 free,    287.8 used,    300.3 buff/cache
+%Cpu(s): 41.5 us, 27.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 30.8 si,  0.0 st
+MiB Mem :    957.4 total,    369.3 free,    287.8 used,    300.3 buff/cache
+%Cpu(s): 44.1 us, 33.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.0 si,  0.0 st
+MiB Mem :    957.4 total,    370.8 free,    286.3 used,    300.3 buff/cache
+%Cpu(s): 14.8 us,  8.6 sy,  0.0 ni, 69.1 id,  0.0 wa,  0.0 hi,  7.4 si,  0.0 st
+MiB Mem :    957.4 total,    370.8 free,    286.3 used,    300.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    370.8 free,    286.3 used,    300.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    370.8 free,    286.3 used,    300.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    370.8 free,    286.3 used,    300.3 buff/cache
+%Cpu(s): 21.9 us,  8.2 sy,  0.0 ni, 57.5 id,  0.0 wa,  0.0 hi, 12.3 si,  0.0 st
+MiB Mem :    957.4 total,    370.8 free,    286.3 used,    300.3 buff/cache
+%Cpu(s): 48.3 us, 26.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.0 si,  0.0 st
+MiB Mem :    957.4 total,    370.4 free,    286.6 used,    300.4 buff/cache
+%Cpu(s): 40.3 us, 41.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 17.9 si,  0.0 st
+MiB Mem :    957.4 total,    370.4 free,    286.6 used,    300.4 buff/cache
+%Cpu(s): 40.0 us, 40.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 20.0 si,  0.0 st
+MiB Mem :    957.4 total,    370.4 free,    286.6 used,    300.4 buff/cache
+%Cpu(s): 43.1 us, 36.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 20.0 si,  0.0 st
+MiB Mem :    957.4 total,    371.6 free,    285.4 used,    300.4 buff/cache
+%Cpu(s): 34.8 us, 43.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 21.7 si,  0.0 st
+MiB Mem :    957.4 total,    371.6 free,    285.4 used,    300.4 buff/cache
+%Cpu(s): 40.0 us, 43.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 16.9 si,  0.0 st
+MiB Mem :    957.4 total,    371.6 free,    285.4 used,    300.4 buff/cache
+%Cpu(s): 37.1 us, 43.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 19.4 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 41.5 us, 40.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 18.5 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 33.8 us, 44.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 21.5 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 38.8 us, 35.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 25.4 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 45.2 us, 38.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 16.1 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 42.4 us, 36.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 21.2 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 40.9 us, 36.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 22.7 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 39.4 us, 40.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 19.7 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 46.8 us, 33.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 19.4 si,  0.0 st
+MiB Mem :    957.4 total,    370.6 free,    286.4 used,    300.4 buff/cache
+%Cpu(s): 42.2 us, 43.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 14.1 si,  0.0 st
+MiB Mem :    957.4 total,    369.4 free,    287.6 used,    300.4 buff/cache
+%Cpu(s): 26.4 us, 36.1 sy,  0.0 ni, 23.6 id,  0.0 wa,  0.0 hi, 13.9 si,  0.0 st
+MiB Mem :    957.4 total,    369.4 free,    287.6 used,    300.4 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    369.4 free,    287.6 used,    300.4 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    369.4 free,    287.7 used,    300.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    369.4 free,    287.7 used,    300.3 buff/cache
+%Cpu(s):  0.0 us,  3.1 sy,  0.0 ni, 93.8 id,  1.0 wa,  0.0 hi,  2.1 si,  0.0 st
+MiB Mem :    957.4 total,    369.4 free,    287.7 used,    300.3 buff/cache
+%Cpu(s):  0.0 us, 39.4 sy,  0.0 ni,  0.0 id,  3.0 wa,  0.0 hi, 57.6 si,  0.0 st
+MiB Mem :    957.4 total,    368.6 free,    278.0 used,    310.7 buff/cache
+%Cpu(s):  0.0 us, 40.4 sy,  0.0 ni,  0.0 id,  1.0 wa,  0.0 hi, 58.6 si,  0.0 st
+MiB Mem :    957.4 total,    368.6 free,    278.0 used,    310.7 buff/cache
+%Cpu(s):  0.0 us, 41.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 58.6 si,  0.0 st
+MiB Mem :    957.4 total,    368.6 free,    278.0 used,    310.7 buff/cache
+%Cpu(s):  0.0 us, 36.4 sy,  0.0 ni,  0.0 id,  1.0 wa,  0.0 hi, 62.6 si,  0.0 st
+MiB Mem :    957.4 total,    368.6 free,    272.0 used,    316.7 buff/cache
+%Cpu(s):  2.0 us, 44.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 53.5 si,  0.0 st
+MiB Mem :    957.4 total,    368.6 free,    272.0 used,    316.7 buff/cache
+%Cpu(s):  0.0 us, 41.6 sy,  0.0 ni,  0.0 id,  1.0 wa,  0.0 hi, 57.4 si,  0.0 st
+MiB Mem :    957.4 total,    368.6 free,    272.0 used,    316.7 buff/cache
+%Cpu(s):  0.0 us, 36.8 sy,  0.0 ni,  0.0 id, 21.1 wa,  0.0 hi, 42.1 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    265.5 used,    323.5 buff/cache
+%Cpu(s):  0.0 us, 24.7 sy,  0.0 ni,  0.0 id, 46.1 wa,  0.0 hi, 29.2 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    265.5 used,    323.5 buff/cache
+%Cpu(s):  0.0 us, 15.1 sy,  0.0 ni,  0.0 id, 65.6 wa,  0.0 hi, 19.4 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    265.5 used,    323.5 buff/cache
+%Cpu(s):  0.0 us, 15.9 sy,  0.0 ni,  0.0 id, 61.4 wa,  0.0 hi, 22.7 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    266.2 used,    322.8 buff/cache
+%Cpu(s):  1.1 us, 28.1 sy,  0.0 ni,  0.0 id, 29.2 wa,  0.0 hi, 41.6 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    266.2 used,    322.8 buff/cache
+%Cpu(s):  0.0 us, 26.7 sy,  0.0 ni,  0.0 id, 27.8 wa,  0.0 hi, 45.6 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    266.2 used,    322.8 buff/cache
+%Cpu(s):  0.0 us, 31.2 sy,  0.0 ni,  0.0 id, 24.7 wa,  0.0 hi, 44.1 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    262.6 used,    326.4 buff/cache
+%Cpu(s):  0.0 us, 27.7 sy,  0.0 ni,  0.0 id, 25.3 wa,  0.0 hi, 47.0 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    262.6 used,    326.4 buff/cache
+%Cpu(s):  0.0 us, 22.0 sy,  0.0 ni,  0.0 id, 51.6 wa,  0.0 hi, 26.4 si,  0.0 st
+MiB Mem :    957.4 total,    368.4 free,    262.6 used,    326.4 buff/cache
+%Cpu(s):  1.1 us, 28.4 sy,  0.0 ni,  0.0 id, 24.2 wa,  0.0 hi, 46.3 si,  0.0 st
+MiB Mem :    957.4 total,    368.1 free,    258.1 used,    331.1 buff/cache
+%Cpu(s):  0.0 us, 23.0 sy,  0.0 ni,  0.0 id, 47.1 wa,  0.0 hi, 29.9 si,  0.0 st
+MiB Mem :    957.4 total,    368.1 free,    258.1 used,    331.1 buff/cache
+%Cpu(s):  1.1 us, 22.3 sy,  0.0 ni,  0.0 id, 37.2 wa,  0.0 hi, 39.4 si,  0.0 st
+MiB Mem :    957.4 total,    368.1 free,    258.1 used,    331.1 buff/cache
+%Cpu(s):  0.0 us, 29.9 sy,  0.0 ni,  0.0 id, 34.5 wa,  0.0 hi, 35.6 si,  0.0 st
+MiB Mem :    957.4 total,    367.9 free,    256.8 used,    332.7 buff/cache
+%Cpu(s):  0.0 us, 26.7 sy,  0.0 ni,  0.0 id, 33.3 wa,  0.0 hi, 40.0 si,  0.0 st
+MiB Mem :    957.4 total,    367.9 free,    256.8 used,    332.7 buff/cache
+%Cpu(s):  0.0 us, 28.6 sy,  0.0 ni,  0.0 id, 35.2 wa,  0.0 hi, 36.3 si,  0.0 st
+MiB Mem :    957.4 total,    367.9 free,    256.8 used,    332.7 buff/cache
+%Cpu(s):  1.1 us, 26.1 sy,  0.0 ni,  0.0 id, 32.6 wa,  0.0 hi, 40.2 si,  0.0 st
+MiB Mem :    957.4 total,    367.9 free,    253.4 used,    336.1 buff/cache
+%Cpu(s):  0.0 us, 28.9 sy,  0.0 ni,  0.0 id, 31.1 wa,  0.0 hi, 40.0 si,  0.0 st
+MiB Mem :    957.4 total,    367.9 free,    253.4 used,    336.1 buff/cache
+%Cpu(s):  0.0 us, 28.7 sy,  0.0 ni,  0.0 id, 34.5 wa,  0.0 hi, 36.8 si,  0.0 st
+MiB Mem :    957.4 total,    367.9 free,    253.4 used,    336.1 buff/cache
+%Cpu(s):  0.0 us, 30.7 sy,  0.0 ni,  0.0 id, 33.0 wa,  0.0 hi, 36.4 si,  0.0 st
+MiB Mem :    957.4 total,    367.4 free,    251.9 used,    338.1 buff/cache
+%Cpu(s):  0.0 us, 25.6 sy,  0.0 ni,  0.0 id, 34.4 wa,  0.0 hi, 40.0 si,  0.0 st
+MiB Mem :    957.4 total,    367.4 free,    251.9 used,    338.1 buff/cache
+%Cpu(s):  0.0 us, 25.3 sy,  0.0 ni,  0.0 id, 39.1 wa,  0.0 hi, 35.6 si,  0.0 st
+MiB Mem :    957.4 total,    367.4 free,    251.9 used,    338.1 buff/cache
+%Cpu(s):  0.0 us, 29.7 sy,  0.0 ni,  0.0 id, 30.8 wa,  0.0 hi, 39.6 si,  0.0 st
+MiB Mem :    957.4 total,    367.4 free,    248.3 used,    341.7 buff/cache
+%Cpu(s):  0.0 us, 23.0 sy,  0.0 ni,  0.0 id, 33.3 wa,  0.0 hi, 43.7 si,  0.0 st
+MiB Mem :    957.4 total,    367.4 free,    248.3 used,    341.7 buff/cache
+%Cpu(s):  0.0 us, 34.1 sy,  0.0 ni,  0.0 id, 34.1 wa,  0.0 hi, 31.8 si,  0.0 st
+MiB Mem :    957.4 total,    367.4 free,    248.3 used,    341.7 buff/cache
+%Cpu(s):  0.0 us, 29.9 sy,  0.0 ni,  0.0 id, 33.3 wa,  0.0 hi, 36.8 si,  0.0 st
+MiB Mem :    957.4 total,    366.4 free,    246.5 used,    344.4 buff/cache
+%Cpu(s):  0.0 us, 31.0 sy,  0.0 ni,  0.0 id, 39.1 wa,  0.0 hi, 29.9 si,  0.0 st
+MiB Mem :    957.4 total,    366.4 free,    246.5 used,    344.4 buff/cache
+%Cpu(s):  1.1 us, 30.7 sy,  0.0 ni,  0.0 id, 33.0 wa,  0.0 hi, 35.2 si,  0.0 st
+MiB Mem :    957.4 total,    366.4 free,    246.5 used,    344.4 buff/cache
+%Cpu(s):  0.0 us, 27.9 sy,  0.0 ni,  0.0 id, 36.0 wa,  0.0 hi, 36.0 si,  0.0 st
+MiB Mem :    957.4 total,    364.0 free,    248.3 used,    345.1 buff/cache
+%Cpu(s):  0.0 us, 31.1 sy,  0.0 ni,  0.0 id, 28.9 wa,  0.0 hi, 40.0 si,  0.0 st
+MiB Mem :    957.4 total,    364.0 free,    248.3 used,    345.1 buff/cache
+%Cpu(s):  0.0 us, 26.4 sy,  0.0 ni,  0.0 id, 35.2 wa,  0.0 hi, 38.5 si,  0.0 st
+MiB Mem :    957.4 total,    364.0 free,    248.3 used,    345.1 buff/cache
+%Cpu(s):  1.1 us, 28.1 sy,  0.0 ni,  0.0 id, 34.8 wa,  0.0 hi, 36.0 si,  0.0 st
+MiB Mem :    957.4 total,    361.3 free,    246.6 used,    349.5 buff/cache
+%Cpu(s):  0.0 us, 23.8 sy,  0.0 ni,  0.0 id, 33.3 wa,  0.0 hi, 42.9 si,  0.0 st
+MiB Mem :    957.4 total,    361.3 free,    246.6 used,    349.5 buff/cache
+%Cpu(s):  0.0 us, 28.9 sy,  0.0 ni,  0.0 id, 35.6 wa,  0.0 hi, 35.6 si,  0.0 st
+MiB Mem :    957.4 total,    361.3 free,    246.6 used,    349.5 buff/cache
+%Cpu(s):  1.1 us, 26.4 sy,  0.0 ni,  0.0 id, 35.2 wa,  0.0 hi, 37.4 si,  0.0 st
+MiB Mem :    957.4 total,    358.3 free,    246.6 used,    352.4 buff/cache
+%Cpu(s):  0.0 us, 26.4 sy,  0.0 ni,  0.0 id, 33.0 wa,  0.0 hi, 40.7 si,  0.0 st
+MiB Mem :    957.4 total,    358.3 free,    246.6 used,    352.4 buff/cache
+%Cpu(s):  0.0 us, 29.2 sy,  0.0 ni,  0.0 id, 37.1 wa,  0.0 hi, 33.7 si,  0.0 st
+MiB Mem :    957.4 total,    358.3 free,    246.6 used,    352.4 buff/cache
+%Cpu(s):  0.0 us, 26.4 sy,  0.0 ni,  0.0 id, 37.9 wa,  0.0 hi, 35.6 si,  0.0 st
+MiB Mem :    957.4 total,    355.9 free,    246.4 used,    355.1 buff/cache
+%Cpu(s):  0.0 us, 26.1 sy,  0.0 ni, 14.1 id, 29.3 wa,  0.0 hi, 30.4 si,  0.0 st
+MiB Mem :    957.4 total,    355.9 free,    246.4 used,    355.1 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+MiB Mem :    957.4 total,    355.9 free,    246.4 used,    355.1 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    355.4 free,    256.0 used,    346.1 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    355.4 free,    256.0 used,    346.1 buff/cache
+%Cpu(s):  0.0 us,  2.0 sy,  0.0 ni, 86.9 id, 10.1 wa,  0.0 hi,  1.0 si,  0.0 st
+MiB Mem :    957.4 total,    355.4 free,    256.0 used,    346.1 buff/cache
+%Cpu(s):  0.0 us, 20.0 sy,  0.0 ni,  0.0 id, 44.4 wa,  0.0 hi, 35.6 si,  0.0 st
+MiB Mem :    957.4 total,    289.2 free,    280.8 used,    387.4 buff/cache
+%Cpu(s):  1.0 us, 33.3 sy,  0.0 ni,  0.0 id, 33.3 wa,  0.0 hi, 32.3 si,  0.0 st
+MiB Mem :    957.4 total,    289.2 free,    280.8 used,    387.4 buff/cache
+%Cpu(s):  0.0 us, 24.7 sy,  0.0 ni,  0.0 id, 35.5 wa,  0.0 hi, 39.8 si,  0.0 st
+MiB Mem :    957.4 total,    289.2 free,    280.8 used,    387.4 buff/cache
+%Cpu(s):  0.0 us, 38.9 sy,  0.0 ni,  0.0 id, 34.7 wa,  0.0 hi, 26.3 si,  0.0 st
+MiB Mem :    957.4 total,    282.8 free,    286.4 used,    388.2 buff/cache
+%Cpu(s):  0.0 us,  9.8 sy,  0.0 ni,  0.0 id, 81.5 wa,  0.0 hi,  8.7 si,  0.0 st
+MiB Mem :    957.4 total,    282.8 free,    286.4 used,    388.2 buff/cache
+%Cpu(s):  1.1 us, 33.7 sy,  0.0 ni,  0.0 id, 25.0 wa,  0.0 hi, 40.2 si,  0.0 st
+MiB Mem :    957.4 total,    282.8 free,    286.4 used,    388.2 buff/cache
+%Cpu(s):  0.0 us, 32.3 sy,  0.0 ni,  0.0 id, 35.5 wa,  0.0 hi, 32.3 si,  0.0 st
+MiB Mem :    957.4 total,    281.1 free,    287.4 used,    388.9 buff/cache
+%Cpu(s):  0.0 us, 39.2 sy,  0.0 ni,  0.0 id, 25.8 wa,  0.0 hi, 35.1 si,  0.0 st
+MiB Mem :    957.4 total,    281.1 free,    287.4 used,    388.9 buff/cache
+%Cpu(s):  1.1 us,  3.2 sy,  0.0 ni,  0.0 id, 91.5 wa,  0.0 hi,  4.3 si,  0.0 st
+MiB Mem :    957.4 total,    281.1 free,    287.4 used,    388.9 buff/cache
+%Cpu(s):  0.0 us, 45.9 sy,  0.0 ni,  0.0 id, 14.3 wa,  0.0 hi, 39.8 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    298.6 used,    388.6 buff/cache
+%Cpu(s):  1.0 us, 49.0 sy,  0.0 ni,  0.0 id,  6.1 wa,  0.0 hi, 43.9 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    298.6 used,    388.6 buff/cache
+%Cpu(s):  0.0 us, 38.5 sy,  0.0 ni,  0.0 id,  7.3 wa,  0.0 hi, 54.2 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    298.6 used,    388.6 buff/cache
+%Cpu(s):  1.0 us, 42.4 sy,  0.0 ni,  0.0 id, 11.1 wa,  0.0 hi, 45.5 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    297.4 used,    389.8 buff/cache
+%Cpu(s):  0.0 us, 43.4 sy,  0.0 ni,  0.0 id,  8.1 wa,  0.0 hi, 48.5 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    297.4 used,    389.8 buff/cache
+%Cpu(s):  1.1 us, 44.2 sy,  0.0 ni,  0.0 id, 15.8 wa,  0.0 hi, 38.9 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    297.4 used,    389.8 buff/cache
+%Cpu(s):  0.0 us, 45.1 sy,  0.0 ni,  0.0 id, 16.5 wa,  0.0 hi, 38.5 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    296.3 used,    390.8 buff/cache
+%Cpu(s):  1.1 us, 40.4 sy,  0.0 ni,  0.0 id, 20.2 wa,  0.0 hi, 38.3 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    296.3 used,    390.8 buff/cache
+%Cpu(s):  0.0 us, 36.6 sy,  0.0 ni,  0.0 id, 20.4 wa,  0.0 hi, 43.0 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    296.3 used,    390.8 buff/cache
+%Cpu(s):  0.0 us, 41.5 sy,  0.0 ni,  0.0 id, 21.3 wa,  0.0 hi, 37.2 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    296.0 used,    391.2 buff/cache
+%Cpu(s):  0.0 us, 36.6 sy,  0.0 ni,  0.0 id, 19.4 wa,  0.0 hi, 44.1 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    296.0 used,    391.2 buff/cache
+%Cpu(s):  1.0 us, 39.8 sy,  0.0 ni,  0.0 id, 22.4 wa,  0.0 hi, 36.7 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    296.0 used,    391.2 buff/cache
+%Cpu(s):  0.0 us, 42.4 sy,  0.0 ni,  0.0 id, 20.7 wa,  0.0 hi, 37.0 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    293.5 used,    393.7 buff/cache
+%Cpu(s):  1.0 us, 38.8 sy,  0.0 ni,  0.0 id, 17.3 wa,  0.0 hi, 42.9 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    293.5 used,    393.7 buff/cache
+%Cpu(s):  0.0 us, 36.3 sy,  0.0 ni,  0.0 id, 24.2 wa,  0.0 hi, 39.6 si,  0.0 st
+MiB Mem :    957.4 total,    270.3 free,    293.5 used,    393.7 buff/cache
+%Cpu(s):  0.0 us, 38.9 sy,  0.0 ni,  0.0 id, 21.1 wa,  0.0 hi, 40.0 si,  0.0 st
+MiB Mem :    957.4 total,    269.0 free,    294.8 used,    393.6 buff/cache
+%Cpu(s):  0.0 us, 38.2 sy,  0.0 ni,  0.0 id, 20.2 wa,  0.0 hi, 41.6 si,  0.0 st
+MiB Mem :    957.4 total,    269.0 free,    294.8 used,    393.6 buff/cache
+%Cpu(s):  2.1 us, 34.0 sy,  0.0 ni,  0.0 id, 19.6 wa,  0.0 hi, 44.3 si,  0.0 st
+MiB Mem :    957.4 total,    269.0 free,    294.8 used,    393.6 buff/cache
+%Cpu(s):  1.1 us, 40.9 sy,  0.0 ni,  0.0 id, 22.6 wa,  0.0 hi, 35.5 si,  0.0 st
+MiB Mem :    957.4 total,    269.0 free,    292.9 used,    395.5 buff/cache
+%Cpu(s):  1.1 us, 39.8 sy,  0.0 ni,  0.0 id, 20.4 wa,  0.0 hi, 38.7 si,  0.0 st
+MiB Mem :    957.4 total,    269.0 free,    292.9 used,    395.5 buff/cache
+%Cpu(s):  0.0 us, 39.8 sy,  0.0 ni,  0.0 id, 18.3 wa,  0.0 hi, 41.9 si,  0.0 st
+MiB Mem :    957.4 total,    269.0 free,    292.9 used,    395.5 buff/cache
+%Cpu(s):  0.0 us, 40.0 sy,  0.0 ni,  0.0 id, 21.1 wa,  0.0 hi, 38.9 si,  0.0 st
+MiB Mem :    957.4 total,    266.3 free,    295.2 used,    395.8 buff/cache
+%Cpu(s):  1.0 us, 43.8 sy,  0.0 ni,  0.0 id, 18.8 wa,  0.0 hi, 36.5 si,  0.0 st
+MiB Mem :    957.4 total,    266.3 free,    295.2 used,    395.8 buff/cache
+%Cpu(s):  0.0 us, 38.5 sy,  0.0 ni,  0.0 id, 15.6 wa,  0.0 hi, 45.8 si,  0.0 st
+MiB Mem :    957.4 total,    266.3 free,    295.2 used,    395.8 buff/cache
+%Cpu(s):  1.0 us, 35.4 sy,  0.0 ni,  0.0 id, 29.2 wa,  0.0 hi, 34.4 si,  0.0 st
+MiB Mem :    957.4 total,    266.3 free,    295.8 used,    395.3 buff/cache
+%Cpu(s):  1.1 us, 38.7 sy,  0.0 ni,  0.0 id, 21.5 wa,  0.0 hi, 38.7 si,  0.0 st
+MiB Mem :    957.4 total,    266.3 free,    295.8 used,    395.3 buff/cache
+%Cpu(s):  0.0 us, 42.1 sy,  0.0 ni,  0.0 id, 18.9 wa,  0.0 hi, 38.9 si,  0.0 st
+MiB Mem :    957.4 total,    266.3 free,    295.8 used,    395.3 buff/cache
+%Cpu(s):  1.1 us, 37.4 sy,  0.0 ni,  0.0 id, 22.0 wa,  0.0 hi, 39.6 si,  0.0 st
+MiB Mem :    957.4 total,    262.9 free,    303.4 used,    391.1 buff/cache
+%Cpu(s):  0.0 us, 36.2 sy,  0.0 ni,  0.0 id, 28.7 wa,  0.0 hi, 35.1 si,  0.0 st
+MiB Mem :    957.4 total,    262.9 free,    303.4 used,    391.1 buff/cache
+%Cpu(s):  0.0 us,  9.2 sy,  0.0 ni, 82.7 id,  4.1 wa,  0.0 hi,  4.1 si,  0.0 st
+MiB Mem :    957.4 total,    262.9 free,    303.4 used,    391.1 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    316.8 free,    281.9 used,    358.7 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    316.8 free,    281.9 used,    358.7 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    316.8 free,    281.9 used,    358.7 buff/cache
+%Cpu(s):  0.0 us, 40.0 sy,  0.0 ni, 21.1 id,  2.1 wa,  0.0 hi, 36.8 si,  0.0 st
+MiB Mem :    957.4 total,    273.0 free,    287.2 used,    397.2 buff/cache
+%Cpu(s):  0.0 us, 40.6 sy,  0.0 ni,  0.0 id, 22.9 wa,  0.0 hi, 36.5 si,  0.0 st
+MiB Mem :    957.4 total,    273.0 free,    287.2 used,    397.2 buff/cache
+%Cpu(s):  1.1 us,  6.5 sy,  0.0 ni,  0.0 id, 83.7 wa,  0.0 hi,  8.7 si,  0.0 st
+MiB Mem :    957.4 total,    273.0 free,    287.2 used,    397.2 buff/cache
+%Cpu(s):  1.0 us, 35.4 sy,  0.0 ni,  0.0 id, 24.0 wa,  0.0 hi, 39.6 si,  0.0 st
+MiB Mem :    957.4 total,    267.6 free,    293.6 used,    396.2 buff/cache
+%Cpu(s):  0.0 us, 33.7 sy,  0.0 ni,  0.0 id, 27.2 wa,  0.0 hi, 39.1 si,  0.0 st
+MiB Mem :    957.4 total,    267.6 free,    293.6 used,    396.2 buff/cache
+%Cpu(s):  1.0 us, 39.6 sy,  0.0 ni,  0.0 id, 11.5 wa,  0.0 hi, 47.9 si,  0.0 st
+MiB Mem :    957.4 total,    267.6 free,    293.6 used,    396.2 buff/cache
+%Cpu(s):  0.0 us, 40.6 sy,  0.0 ni,  0.0 id, 11.5 wa,  0.0 hi, 47.9 si,  0.0 st
+MiB Mem :    957.4 total,    266.8 free,    290.8 used,    399.7 buff/cache
+%Cpu(s):  1.0 us, 40.8 sy,  0.0 ni,  0.0 id, 11.2 wa,  0.0 hi, 46.9 si,  0.0 st
+MiB Mem :    957.4 total,    266.8 free,    290.8 used,    399.7 buff/cache
+%Cpu(s):  0.0 us, 52.1 sy,  0.0 ni,  0.0 id,  9.4 wa,  0.0 hi, 38.5 si,  0.0 st
+MiB Mem :    957.4 total,    266.8 free,    290.8 used,    399.7 buff/cache
+%Cpu(s):  0.0 us, 46.1 sy,  0.0 ni,  0.0 id,  6.9 wa,  0.0 hi, 47.1 si,  0.0 st
+MiB Mem :    957.4 total,    266.8 free,    289.4 used,    401.1 buff/cache
+%Cpu(s):  0.0 us, 43.2 sy,  0.0 ni,  0.0 id, 11.6 wa,  0.0 hi, 45.3 si,  0.0 st
+MiB Mem :    957.4 total,    266.8 free,    289.4 used,    401.1 buff/cache
+%Cpu(s):  0.0 us, 42.9 sy,  0.0 ni,  0.0 id, 20.9 wa,  0.0 hi, 36.3 si,  0.0 st
+MiB Mem :    957.4 total,    266.8 free,    289.4 used,    401.1 buff/cache
+%Cpu(s):  1.0 us, 36.7 sy,  0.0 ni,  0.0 id, 20.4 wa,  0.0 hi, 41.8 si,  0.0 st
+MiB Mem :    957.4 total,    262.7 free,    291.5 used,    403.2 buff/cache
+%Cpu(s):  1.1 us, 45.5 sy,  0.0 ni,  0.0 id, 12.5 wa,  0.0 hi, 40.9 si,  0.0 st
+MiB Mem :    957.4 total,    262.7 free,    291.5 used,    403.2 buff/cache
+%Cpu(s):  0.0 us, 41.3 sy,  0.0 ni,  0.0 id, 17.4 wa,  0.0 hi, 41.3 si,  0.0 st
+MiB Mem :    957.4 total,    262.7 free,    291.5 used,    403.2 buff/cache
+%Cpu(s):  0.0 us, 40.0 sy,  0.0 ni,  0.0 id, 18.9 wa,  0.0 hi, 41.1 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    296.6 used,    404.1 buff/cache
+%Cpu(s):  0.0 us, 36.5 sy,  0.0 ni,  0.0 id, 24.0 wa,  0.0 hi, 39.6 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    296.6 used,    404.1 buff/cache
+%Cpu(s):  0.0 us, 42.6 sy,  0.0 ni,  0.0 id, 21.3 wa,  0.0 hi, 36.2 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    296.6 used,    404.1 buff/cache
+%Cpu(s):  1.1 us, 42.6 sy,  0.0 ni,  0.0 id, 17.0 wa,  0.0 hi, 39.4 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    295.6 used,    405.0 buff/cache
+%Cpu(s):  1.1 us, 40.4 sy,  0.0 ni,  0.0 id, 22.3 wa,  0.0 hi, 36.2 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    295.6 used,    405.0 buff/cache
+%Cpu(s):  0.0 us, 35.2 sy,  0.0 ni,  0.0 id, 22.0 wa,  0.0 hi, 42.9 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    295.6 used,    405.0 buff/cache
+%Cpu(s):  1.1 us, 35.9 sy,  0.0 ni,  0.0 id, 21.7 wa,  0.0 hi, 41.3 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    294.7 used,    406.0 buff/cache
+%Cpu(s):  1.1 us, 46.3 sy,  0.0 ni,  0.0 id, 16.8 wa,  0.0 hi, 35.8 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    294.7 used,    406.0 buff/cache
+%Cpu(s):  0.0 us, 37.0 sy,  0.0 ni,  0.0 id, 20.7 wa,  0.0 hi, 42.4 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    294.7 used,    406.0 buff/cache
+%Cpu(s):  0.0 us, 41.5 sy,  0.0 ni,  0.0 id, 21.3 wa,  0.0 hi, 37.2 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    297.0 used,    403.6 buff/cache
+%Cpu(s):  0.0 us, 42.7 sy,  0.0 ni,  0.0 id, 21.9 wa,  0.0 hi, 35.4 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    297.0 used,    403.6 buff/cache
+%Cpu(s):  0.0 us, 42.3 sy,  0.0 ni,  0.0 id, 11.3 wa,  0.0 hi, 46.4 si,  0.0 st
+MiB Mem :    957.4 total,    256.8 free,    297.0 used,    403.6 buff/cache
+%Cpu(s):  1.0 us, 40.2 sy,  0.0 ni,  0.0 id, 18.6 wa,  0.0 hi, 40.2 si,  0.0 st
+MiB Mem :    957.4 total,    254.3 free,    295.8 used,    407.3 buff/cache
+%Cpu(s):  1.1 us, 31.5 sy,  0.0 ni,  0.0 id, 32.6 wa,  0.0 hi, 34.8 si,  0.0 st
+MiB Mem :    957.4 total,    254.3 free,    295.8 used,    407.3 buff/cache
+%Cpu(s):  0.0 us, 39.6 sy,  0.0 ni,  0.0 id, 22.0 wa,  0.0 hi, 38.5 si,  0.0 st
+MiB Mem :    957.4 total,    254.3 free,    295.8 used,    407.3 buff/cache
+%Cpu(s):  0.0 us, 37.1 sy,  0.0 ni,  0.0 id, 23.7 wa,  0.0 hi, 39.2 si,  0.0 st
+MiB Mem :    957.4 total,    254.1 free,    297.2 used,    406.1 buff/cache
+%Cpu(s):  0.0 us, 41.7 sy,  0.0 ni,  0.0 id, 18.8 wa,  0.0 hi, 39.6 si,  0.0 st
+MiB Mem :    957.4 total,    254.1 free,    297.2 used,    406.1 buff/cache
+%Cpu(s):  0.0 us, 33.0 sy,  0.0 ni,  0.0 id, 24.5 wa,  0.0 hi, 42.6 si,  0.0 st
+MiB Mem :    957.4 total,    254.1 free,    297.2 used,    406.1 buff/cache
+%Cpu(s):  0.0 us, 39.8 sy,  0.0 ni,  0.0 id, 19.4 wa,  0.0 hi, 40.9 si,  0.0 st
+MiB Mem :    957.4 total,    253.3 free,    296.7 used,    407.4 buff/cache
+%Cpu(s):  0.0 us, 39.8 sy,  0.0 ni,  0.0 id, 22.6 wa,  0.0 hi, 37.6 si,  0.0 st
+MiB Mem :    957.4 total,    253.3 free,    296.7 used,    407.4 buff/cache
+%Cpu(s):  0.0 us, 41.1 sy,  0.0 ni,  0.0 id, 22.1 wa,  0.0 hi, 36.8 si,  0.0 st
+MiB Mem :    957.4 total,    253.3 free,    296.7 used,    407.4 buff/cache
+%Cpu(s):  0.0 us, 36.8 sy,  0.0 ni,  3.2 id, 27.4 wa,  0.0 hi, 32.6 si,  0.0 st
+MiB Mem :    957.4 total,    302.6 free,    284.3 used,    370.5 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    302.6 free,    284.3 used,    370.5 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    302.6 free,    284.3 used,    370.5 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    302.6 free,    284.3 used,    370.5 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.0 id,  1.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    302.6 free,    284.3 used,    370.5 buff/cache
+%Cpu(s):  2.0 us, 42.9 sy,  0.0 ni,  0.0 id, 20.4 wa,  0.0 hi, 34.7 si,  0.0 st
+MiB Mem :    957.4 total,    302.6 free,    284.3 used,    370.5 buff/cache
+%Cpu(s):  0.0 us, 46.0 sy,  0.0 ni,  0.0 id,  1.0 wa,  0.0 hi, 53.0 si,  0.0 st
+MiB Mem :    957.4 total,    294.3 free,    279.9 used,    383.2 buff/cache
+%Cpu(s):  0.0 us, 51.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi, 48.5 si,  0.0 st
+MiB Mem :    957.4 total,    294.3 free,    279.9 used,    383.2 buff/cache
+%Cpu(s):  1.0 us,  8.2 sy,  0.0 ni,  0.0 id, 83.5 wa,  0.0 hi,  7.2 si,  0.0 st
+MiB Mem :    957.4 total,    294.3 free,    279.9 used,    383.2 buff/cache
+%Cpu(s):  1.0 us, 28.1 sy,  0.0 ni,  0.0 id, 32.3 wa,  0.0 hi, 38.5 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    296.3 used,    413.8 buff/cache
+%Cpu(s):  0.0 us, 33.3 sy,  0.0 ni,  0.0 id, 30.1 wa,  0.0 hi, 36.6 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    296.3 used,    413.8 buff/cache
+%Cpu(s):  0.0 us, 35.9 sy,  0.0 ni,  0.0 id, 32.6 wa,  0.0 hi, 31.5 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    296.3 used,    413.8 buff/cache
+%Cpu(s):  0.0 us, 17.0 sy,  0.0 ni,  0.0 id, 64.9 wa,  0.0 hi, 18.1 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    295.6 used,    414.5 buff/cache
+%Cpu(s):  0.0 us, 26.9 sy,  0.0 ni,  0.0 id, 53.8 wa,  0.0 hi, 19.4 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    295.6 used,    414.5 buff/cache
+%Cpu(s):  1.0 us, 40.2 sy,  0.0 ni,  0.0 id, 22.7 wa,  0.0 hi, 36.1 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    295.6 used,    414.5 buff/cache
+%Cpu(s):  1.1 us, 40.4 sy,  0.0 ni,  0.0 id, 20.2 wa,  0.0 hi, 38.3 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    294.8 used,    415.3 buff/cache
+%Cpu(s):  1.0 us, 45.1 sy,  0.0 ni,  0.0 id,  5.9 wa,  0.0 hi, 48.0 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    294.8 used,    415.3 buff/cache
+%Cpu(s):  0.0 us, 51.0 sy,  0.0 ni,  0.0 id,  2.0 wa,  0.0 hi, 46.9 si,  0.0 st
+MiB Mem :    957.4 total,    247.3 free,    294.8 used,    415.3 buff/cache
+%Cpu(s):  0.0 us, 44.4 sy,  0.0 ni,  0.0 id,  8.1 wa,  0.0 hi, 47.5 si,  0.0 st
+MiB Mem :    957.4 total,    245.8 free,    300.0 used,    411.6 buff/cache
+%Cpu(s):  1.0 us, 42.9 sy,  0.0 ni,  0.0 id,  7.1 wa,  0.0 hi, 49.0 si,  0.0 st
+MiB Mem :    957.4 total,    245.8 free,    300.0 used,    411.6 buff/cache
+%Cpu(s):  1.0 us, 47.4 sy,  0.0 ni,  0.0 id,  5.2 wa,  0.0 hi, 46.4 si,  0.0 st
+MiB Mem :    957.4 total,    245.8 free,    300.0 used,    411.6 buff/cache
+%Cpu(s):  0.0 us, 37.9 sy,  0.0 ni,  0.0 id, 16.8 wa,  0.0 hi, 45.3 si,  0.0 st
+MiB Mem :    957.4 total,    245.1 free,    296.1 used,    416.2 buff/cache
+%Cpu(s):  0.0 us, 37.6 sy,  0.0 ni,  0.0 id, 21.5 wa,  0.0 hi, 40.9 si,  0.0 st
+MiB Mem :    957.4 total,    245.1 free,    296.1 used,    416.2 buff/cache
+%Cpu(s):  0.0 us, 42.1 sy,  0.0 ni,  0.0 id, 18.9 wa,  0.0 hi, 38.9 si,  0.0 st
+MiB Mem :    957.4 total,    245.1 free,    296.1 used,    416.2 buff/cache
+%Cpu(s):  0.0 us, 42.9 sy,  0.0 ni,  0.0 id, 19.8 wa,  0.0 hi, 37.4 si,  0.0 st
+MiB Mem :    957.4 total,    245.1 free,    299.8 used,    412.6 buff/cache
+%Cpu(s):  1.1 us, 43.6 sy,  0.0 ni,  0.0 id, 18.1 wa,  0.0 hi, 37.2 si,  0.0 st
+MiB Mem :    957.4 total,    245.1 free,    299.8 used,    412.6 buff/cache
+%Cpu(s):  0.0 us, 41.9 sy,  0.0 ni,  0.0 id, 20.4 wa,  0.0 hi, 37.6 si,  0.0 st
+MiB Mem :    957.4 total,    245.1 free,    299.8 used,    412.6 buff/cache
+%Cpu(s):  0.0 us, 35.5 sy,  0.0 ni,  0.0 id, 20.4 wa,  0.0 hi, 44.1 si,  0.0 st
+MiB Mem :    957.4 total,    242.9 free,    295.1 used,    419.4 buff/cache
+%Cpu(s):  1.1 us, 40.0 sy,  0.0 ni,  0.0 id, 21.1 wa,  0.0 hi, 37.9 si,  0.0 st
+MiB Mem :    957.4 total,    242.9 free,    295.1 used,    419.4 buff/cache
+%Cpu(s):  0.0 us, 42.3 sy,  0.0 ni,  0.0 id, 19.6 wa,  0.0 hi, 38.1 si,  0.0 st
+MiB Mem :    957.4 total,    242.9 free,    295.1 used,    419.4 buff/cache
+%Cpu(s):  0.0 us, 43.0 sy,  0.0 ni,  0.0 id, 20.4 wa,  0.0 hi, 36.6 si,  0.0 st
+MiB Mem :    957.4 total,    242.9 free,    294.2 used,    420.4 buff/cache
+%Cpu(s):  1.1 us, 41.1 sy,  0.0 ni,  0.0 id, 20.0 wa,  0.0 hi, 37.9 si,  0.0 st
+MiB Mem :    957.4 total,    242.9 free,    294.2 used,    420.4 buff/cache
+%Cpu(s):  0.0 us, 40.4 sy,  0.0 ni,  0.0 id, 19.1 wa,  0.0 hi, 40.4 si,  0.0 st
+MiB Mem :    957.4 total,    242.9 free,    294.2 used,    420.4 buff/cache
+%Cpu(s):  0.0 us, 45.7 sy,  0.0 ni,  0.0 id, 22.3 wa,  0.0 hi, 31.9 si,  0.0 st
+MiB Mem :    957.4 total,    242.1 free,    294.0 used,    421.3 buff/cache
+%Cpu(s):  1.0 us, 39.6 sy,  0.0 ni,  0.0 id, 21.9 wa,  0.0 hi, 37.5 si,  0.0 st
+MiB Mem :    957.4 total,    242.1 free,    294.0 used,    421.3 buff/cache
+%Cpu(s):  1.1 us, 45.7 sy,  0.0 ni,  0.0 id, 21.7 wa,  0.0 hi, 31.5 si,  0.0 st
+MiB Mem :    957.4 total,    242.1 free,    294.0 used,    421.3 buff/cache
+%Cpu(s):  0.0 us, 41.1 sy,  0.0 ni,  0.0 id, 26.3 wa,  0.0 hi, 32.6 si,  0.0 st
+MiB Mem :    957.4 total,    240.6 free,    294.6 used,    422.1 buff/cache
+%Cpu(s):  0.0 us, 34.4 sy,  0.0 ni,  0.0 id, 28.9 wa,  0.0 hi, 36.7 si,  0.0 st
+MiB Mem :    957.4 total,    240.6 free,    294.6 used,    422.1 buff/cache
+%Cpu(s):  1.0 us, 36.4 sy,  0.0 ni,  0.0 id, 24.2 wa,  0.0 hi, 38.4 si,  0.0 st
+MiB Mem :    957.4 total,    240.6 free,    294.6 used,    422.1 buff/cache
+%Cpu(s):  1.1 us, 39.4 sy,  0.0 ni,  0.0 id, 20.2 wa,  0.0 hi, 39.4 si,  0.0 st
+MiB Mem :    957.4 total,    240.4 free,    295.0 used,    422.0 buff/cache
+%Cpu(s):  0.0 us, 36.6 sy,  0.0 ni,  0.0 id, 22.6 wa,  0.0 hi, 40.9 si,  0.0 st
+MiB Mem :    957.4 total,    240.4 free,    295.0 used,    422.0 buff/cache
+%Cpu(s):  1.1 us, 34.7 sy,  0.0 ni,  0.0 id, 21.1 wa,  0.0 hi, 43.2 si,  0.0 st
+MiB Mem :    957.4 total,    240.4 free,    295.0 used,    422.0 buff/cache
+%Cpu(s):  0.0 us, 44.1 sy,  0.0 ni,  0.0 id, 26.9 wa,  0.0 hi, 29.0 si,  0.0 st
+MiB Mem :    957.4 total,    263.5 free,    303.6 used,    390.3 buff/cache
+%Cpu(s):  0.0 us,  4.1 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    263.5 free,    303.6 used,    390.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    263.5 free,    303.6 used,    390.3 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    288.9 free,    284.6 used,    384.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    288.9 free,    284.6 used,    384.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    288.9 free,    284.6 used,    384.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.0 id,  1.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    288.9 free,    284.5 used,    384.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    288.9 free,    284.5 used,    384.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    288.9 free,    284.5 used,    384.0 buff/cache
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    957.4 total,    288.9 free,    284.5 used,    384.0 buff/cache

@@ -1,0 +1,5 @@
+﻿cenario;amostras;mem_total_mib;mem_usada_media_mib;mem_usada_max_mib;cpu_uso_medio_pct;cpu_uso_max_pct;cpu_uso_medio_sob_carga_pct;amostras_sob_carga
+1c1g;725;957.4;237.5;303.6;59.4;86.0;65.0;660
+1c2g;795;1963.9;267.3;366.8;54.4;87.1;64.8;664
+2c1g;675;957.2;385.7;582.6;29.8;93.8;45.7;393
+2c2g;645;1963.7;392.8;638.5;37.8;89.10000000000001;52.7;425
