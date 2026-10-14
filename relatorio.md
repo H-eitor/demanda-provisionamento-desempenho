@@ -27,7 +27,15 @@ Os três parâmetros são os valores padrão do repositório. Todas as requisiç
 2. Os recursos (vCPUs e RAM) foram alterados entre os cenários, com a VM desligada.
 3. Redirecionamento de portas na rede da VM: porta 8080 do hospedeiro para a porta 8080 do convidado. Assim a carga é gerada de fora da VM, no hospedeiro, em `http://localhost:8080`.
 
-*[Inserir screenshots da criação da VM e do redirecionamento de portas.]*
+![Login na VM Ubuntu Server 22.04](reports/prints/login_vm.jpeg)
+
+Primeiro acesso à VM (usuário `osboxes`). O Ubuntu 22.04 LTS está no ar, com IP `10.0.2.15` na interface `enp0s3` (rede NAT do VirtualBox) e 22% de memória em uso.
+
+![Acesso à aplicação pelo navegador do hospedeiro](reports/prints/acesso_navegador_hospedeiro.jpg)
+
+Teste do redirecionamento de portas: o navegador do hospedeiro acessa `localhost:8080` e recebe `{"status":"online"}`, resposta da aplicação que está dentro da VM.
+
+*[Inserir screenshots da criação da VM no VirtualBox e da tela de configuração do redirecionamento de portas.]*
 
 ### Deploy
 
@@ -38,6 +46,9 @@ pip install -r app/requirements.txt
 ./iniciate.sh <nº de workers> <nome do cenário>
 ```
 
+![Aplicação em execução na VM, acessada pelo navegador do hospedeiro](reports/prints/deploy_vm.jpg)
+
+Validação do deploy: à direita, a VM (`POIatvd2`) com o Uvicorn escutando em `0.0.0.0:8080`. À esquerda, o navegador do hospedeiro em `localhost:8080` recebe `{"status":"online"}`, e o log da VM registra `GET / HTTP/1.1 200 OK` vindo de `10.0.2.2` (o hospedeiro, pelo redirecionamento de portas).
 O `iniciate.sh` liga o monitoramento com `top` e sobe `uvicorn app.server:app --host 0.0.0.0 --port 8080 --workers N`. O número de workers foi sempre igual ao número de vCPUs do cenário. Ao encerrar o servidor, o script para o `top`.
 
 ## 3. Teste de stress
