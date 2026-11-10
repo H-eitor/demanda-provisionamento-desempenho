@@ -1,0 +1,25 @@
+services:
+  app-cpu:
+    image: ${DOCKERHUB_USERNAME}/poi-app-cpu:latest
+    build: {context: ., dockerfile: services/cpu/Dockerfile}
+    ports: ["8081:8080"]
+    volumes: ["${DATA_PATH:-./dados}:/data"]
+    restart: unless-stopped
+  app-memory:
+    image: ${DOCKERHUB_USERNAME}/poi-app-memory:latest
+    build: {context: ., dockerfile: services/memory/Dockerfile}
+    ports: ["8082:8080"]
+    volumes: ["${DATA_PATH:-./dados}:/data"]
+    restart: unless-stopped
+  app-io:
+    image: ${DOCKERHUB_USERNAME}/poi-app-io:latest
+    build: {context: ., dockerfile: services/io/Dockerfile}
+    ports: ["8083:8080"]
+    volumes: ["${DATA_PATH:-./dados}:/data"]
+    restart: unless-stopped
+  gateway:
+    image: ${DOCKERHUB_USERNAME}/poi-app-gateway:latest
+    build: {context: ., dockerfile: services/gateway/Dockerfile}
+    ports: ["8080:8080"]
+    depends_on: [app-cpu, app-memory, app-io]
+    restart: unless-stopped
