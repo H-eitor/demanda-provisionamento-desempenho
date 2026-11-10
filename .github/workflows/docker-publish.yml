@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        service: [cpu, memory, io]
+        service: [cpu, memory, io, gateway]
     steps:
       - uses: actions/checkout@v4
 

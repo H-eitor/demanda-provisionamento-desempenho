@@ -17,3 +17,9 @@ services:
     ports: ["8083:8080"]
     volumes: ["${DATA_PATH:-./dados}:/data"]
     restart: unless-stopped
+  gateway:
+    image: ${DOCKERHUB_USERNAME}/poi-app-gateway:latest
+    build: {context: ., dockerfile: services/gateway/Dockerfile}
+    ports: ["8080:8080"]
+    depends_on: [app-cpu, app-memory, app-io]
+    restart: unless-stopped
